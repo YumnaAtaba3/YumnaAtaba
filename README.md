@@ -6,9 +6,9 @@
 ---
 
 ## 🔹 About Me
-Frontend Developer with **2 years of experience** building responsive, user-focused web and mobile applications using **React.js** and **Flutter**.  
-Passionate about crafting clean UI/UX, integrating APIs, and delivering high-quality, maintainable code.  
-Strong collaborator with expertise in **Git**, Agile workflows, and project management tools like **Trello** ,**Jira** and **ClickUp**.
+Innovative Frontend Developer with 2+ years of experience creating responsive, user-focused web and mobile applications using React.js and Flutter.
+ Proficient in Git/GitHub for version control and collaboration, with strong experience using Trello, ClickUp, and Jira in Agile/Scrum environments.
+ Skilled in modern UI/UX design, state management, and REST API integration, delivering high-quality, maintainable code for cross-platform solutions.
 
 ---
 
