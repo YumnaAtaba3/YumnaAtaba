@@ -1,7 +1,7 @@
 # 👩‍💻 Yumna Ataba
 
 📍 **Damascus, Syria**  
-📧 [yumnataba33@gmail.com](mailto:yumnataba33@gmail.com)
+📧 [yumnaataba33@gmail.com](mailto:yumnataba33@gmail.com)
 
 ---
 
